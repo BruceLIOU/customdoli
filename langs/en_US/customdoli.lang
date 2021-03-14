@@ -1,0 +1,7 @@
+Module100000Name = customdoli
+Module100000Desc = customdoli Description
+
+BRUMANAbout = This module has been developed by <a href="http://www.bruman.fr" target="_blank">BRUMAN</a><br>You can find the documentation on our <a href="http://wiki.bruman.fr/index.php/Accueil" target="_blank">wiki</a><br><br>For any question or feedback, contact us on <a href="mailto:contact@bruman.fr">contact@bruman.fr</a><br><br>For any commercial question, contact us on <a href="mailto:contact@bruman.fr">contact@bruman.fr</a> or at +33 9 77 19 50 70<br><br>Find our other modules on <a href="http://www.dolistore.com/search.php?orderby=position&orderway=desc&search_query=bruman&submit_search=Rechercher" target="_blank">Dolistore</a>
+
+customdoliSetup = customdoli module setup
+customdoliAbout = About customdoli
